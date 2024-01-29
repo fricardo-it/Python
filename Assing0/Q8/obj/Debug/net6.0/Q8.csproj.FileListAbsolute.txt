@@ -1,0 +1,15 @@
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.csproj.AssemblyReference.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.AssemblyInfoInputs.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.AssemblyInfo.cs
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\bin\Debug\net6.0\Q8.exe
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\bin\Debug\net6.0\Q8.deps.json
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\bin\Debug\net6.0\Q8.runtimeconfig.json
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\bin\Debug\net6.0\Q8.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\bin\Debug\net6.0\Q8.pdb
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\refint\Q8.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.pdb
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\Q8.genruntimeconfig.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q8\obj\Debug\net6.0\ref\Q8.dll

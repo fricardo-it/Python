@@ -1,0 +1,15 @@
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\bin\Debug\net6.0\Q9.exe
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\bin\Debug\net6.0\Q9.deps.json
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\bin\Debug\net6.0\Q9.runtimeconfig.json
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\bin\Debug\net6.0\Q9.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\bin\Debug\net6.0\Q9.pdb
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.csproj.AssemblyReference.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.AssemblyInfoInputs.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.AssemblyInfo.cs
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.csproj.CoreCompileInputs.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\refint\Q9.dll
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.pdb
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\Q9.genruntimeconfig.cache
+C:\Users\Usr\OneDrive\Documentos\Aula\LA SALLE\3 TERM\Scripting\Assign\Assign0\Assing0\Q9\obj\Debug\net6.0\ref\Q9.dll
